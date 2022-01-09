@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'iA Writer Duo';
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-Bold.woff2'), fotmat('woff2');
+    font-weight: 400;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: 'iA Writer Duo';
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-BoldItalic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-BoldItalic.woff2'), fotmat('woff2');
+    font-weight: 400;
+    font-style: italic;
+};
+
+@font-face {
+    font-family: 'iA Writer Duo';
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-Italic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-Italic.woff2'), fotmat('woff2');
+    font-weight: 700;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: 'iA Writer Duo';
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/talovsky/iA-Fonts@master/ia-writer-duo/Webfonts/iAWriterDuoS-Regular.woff2', fotmat('woff2');
+    font-weight: 700;
+    font-style: italic;
+};
